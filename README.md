@@ -53,3 +53,23 @@ Compile with `-O3` optimization for smooth timing execution:
 ```bash
 g++ -O3 -std=c++17 cosmicinflation.cpp -o sim
 ./sim
+
+==================================================
+        COSMIC INFLATION & REHEATING SIMULATION   
+==================================================
+ Phase : [ SLOW-ROLL INFLATION ]
+ e-folds (N) : [####################------]  54.12 / 65.00
+ Field Value :  3.2145 M_pl
+ Hubble (H)  :  0.0014 M_pl
+
+ Potential Well V(phi) = 1/2 m^2 phi^2:
+  |                      .
+  |                    .
+  |                  .
+  |                .
+  |              (O)
+  |            .
+  |          .
+  |        .
+  +------------------------
+ 0.0                      15.0 M_pl
