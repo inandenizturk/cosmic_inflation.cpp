@@ -1,3 +1,6 @@
+<img width="567" height="360" alt="Screenshot 2026-09-20 at 11 49 39" src="https://github.com/user-attachments/assets/adf8bdbe-7a26-4a3e-b420-52c284e9585e" />
+<img width="1920" height="1280" alt="image_20260920_114626" src="https://github.com/user-attachments/assets/97d99020-7fca-46d9-bda8-f8b44796b088" />
+
 # Cosmic Inflation Simulation
 
 A lightweight, dependency-free C++ simulation that models the dynamics of early-universe cosmic inflation and reheating using an ASCII-based terminal GUI.
